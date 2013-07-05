@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<departments
+
+	btnhoverColor = "0x006699" 
+	btnresetColor = "0x444444"
+	txthoverColor = "0xffffff" 
+	txtresetColor = "0xffffff"
+	listboxColor = "0x003853"
+	txtlistboxColor = "0xffffff"
+	listHeader = "Select a Department"
+	messageSent = "Thank you, message sent succesfully"
+	errorMessage = "Error sending your message, please try again">
+
+	<dept email="chris.bunyan@adamantinepictures.com">General Enquiries</dept>
+	<!--<dept email="sales@yourdomain.com">Advertising departments</dept>>
+	<dept email="marketing@yourdomain.com">Marketing</dept>-->
+	<!--<dept email="ny@yourdomain.com">New York</dept>
+	<dept email="la@yourdomain.com">Los Angeles</dept>
+	<dept email="miami@yourdomain.com">Miami</dept>-->
+	
+</departments>

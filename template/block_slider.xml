@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<slideshowData 
+	speed="9"
+	borderWidth="920"
+	borderHeight="420"
+	bannerWidth="900"
+	bannerHeight="400"
+	captions="on" 
+	imagelinks="on"
+	scrubColor = "0x006699"
+	thumbnails="on"
+	thumbY="360"
+	thumbX="400">
+
+<image>
+<imagePath>images/block_slider/curse2.jpg</imagePath>
+<videoPath></videoPath>
+<trackPath></trackPath>
+<buffTime></buffTime>
+<youtube></youtube>
+<startFrame></startFrame>
+<media>image</media>
+<format></format>
+<inline></inline>
+<quality></quality>
+<imageURL><![CDATA[]]></imageURL>
+<target></target>
+<description><![CDATA[<font size ="48" color ="#ffffff">THE CURSE OF THE GLASS PHOTO</font>]]></description>
+<description><![CDATA[<font size ="34" color ="#ffffff">Director   Steven Bendelack</font>]]></description>
+<description><![CDATA[<font size ="26" color ="#ffffff">Executive Producer   Michael O'Sullivan</font>]]></description>
+<boxColor>0x333333</boxColor>
+<boxColor>0x000000</boxColor>
+<boxColor>0x000000</boxColor>
+<transitionStyle>horizontalBars</transitionStyle>
+<captionX>80</captionX>
+<captionY>30</captionY>
+<buttonX>80</buttonX>
+<buttonY>150</buttonY>
+<videoDescription></videoDescription>
+<shareURL></shareURL>
+</image>
+
+<image>
+<imagePath>images/block_slider/IMG_0815.jpg</imagePath>
+<videoPath></videoPath>
+<trackPath></trackPath>
+<buffTime></buffTime>
+<youtube></youtube>
+<startFrame></startFrame>
+<media>image</media>
+<format></format>
+<inline></inline>
+<quality></quality>
+<imageURL><![CDATA[]]></imageURL>
+<target>_blank</target>
+<description><![CDATA[<font size ="40" color ="#ffffff">THE RAVEN CLUB</font>]]></description>
+<description><![CDATA[<font size ="30" color ="#ffffff">Thriller with a macro look and feel</font>]]></description>
+<description><![CDATA[<font size ="24" color ="#222222">Feature film that is a cross between Fight Club and Dead Poets Society</font>]]></description>
+<boxColor>0x000000</boxColor>
+<boxColor>0x000000</boxColor>
+<boxColor>0xffcc00</boxColor>
+<transitionStyle>verticalBars</transitionStyle>
+<captionX>80</captionX>
+<captionY>160</captionY>
+<buttonX>720</buttonX>
+<buttonY>20</buttonY>
+<videoDescription></videoDescription>
+<shareURL></shareURL>
+</image>
+
+<!--<image>
+<imagePath>images/block_slider/Boy in the wire.jpg</imagePath>
+<videoPath></videoPath>
+<trackPath></trackPath>
+<buffTime></buffTime>
+<youtube>7vikh4ARrII</youtube>
+<startFrame>0</startFrame>
+<media>image</media>
+<format></format>
+<inline>youtube</inline>
+<quality>large</quality>
+<imageURL><![CDATA[]]></imageURL>
+<target>_blank</target>
+<description><![CDATA[<font size ="40" color ="#ffffff">ADD MOVIE TRAILERS HERE</font>]]></description>
+<description><![CDATA[<font size ="30" color ="#ffffff">Display Youtube and FLV Videos</font>]]></description>
+<description><![CDATA[<font size ="24" color ="#222222">YOU CAN ADD VIDEOS HERE</font>]]></description>
+<boxColor>0x000000</boxColor>
+<boxColor>0x000000</boxColor>
+<boxColor>0xffcc00</boxColor>
+<transitionStyle>verticalBars</transitionStyle>
+<captionX>80</captionX>
+<captionY>160</captionY>
+<buttonX>720</buttonX>
+<buttonY>20</buttonY>
+<videoDescription><![CDATA[<font color ="#ffffff">Admantine Pictures. </font><a href="http://www.activeden.net/user/igniteflash" target="_blank"><font color="#006699">Read More</font>]]></videoDescription>
+<shareURL>www.youtube.com/watch?v=7vikh4ARrII</shareURL>
+</image>-->
+<!--<image>
+<imagePath>images/block_slider/image3.jpg</imagePath>
+<videoPath></videoPath>
+<trackPath></trackPath>
+<buffTime></buffTime>
+<youtube></youtube>
+<startFrame></startFrame>
+<media>image</media>
+<format></format>
+<inline></inline>
+<quality></quality>
+<imageURL><![CDATA[http://activeden.net/user/igniteflash]]></imageURL>
+<target></target>
+<description><![CDATA[<font size ="30" color ="#ffffff">MULTI MEDIA FRIENDLY</font>]]></description>
+<description><![CDATA[<font size ="26" color ="#ffffff">Display Youtube and FLV Videos</font>]]></description>
+<description><![CDATA[]]></description>
+<boxColor>0x990000</boxColor>
+<boxColor>0x000000</boxColor>
+<boxColor>0xff3333</boxColor>
+<transitionStyle>verticalBars</transitionStyle>
+<captionX>80</captionX>
+<captionY>40</captionY>
+<buttonX></buttonX>
+<buttonY></buttonY>
+<videoDescription></videoDescription>
+<shareURL></shareURL>
+</image>-->
+
+<image>
+<imagePath>images/block_slider/Boy in the wire.jpg</imagePath>
+<videoPath></videoPath>
+<trackPath></trackPath>
+<buffTime></buffTime>
+<youtube></youtube>
+<startFrame></startFrame>
+<media>image</media>
+<format></format>
+<inline></inline>
+<quality></quality>
+<imageURL><![CDATA[]]></imageURL>
+<target></target>
+<description><![CDATA[<font size ="36" color ="#ffffff">ETIRENO</font>]]></description>
+<description><![CDATA[<font size ="30" color ="#993366">Morgan Freeman as Fig</font>]]></description>
+<description><![CDATA[<font size ="26" color ="#ffffff">A Charity Based Movie</font>]]></description>
+<boxColor>0x993366</boxColor>
+<boxColor>0xffffff</boxColor>
+<boxColor>0x993366</boxColor>
+<transitionStyle>horizontalBars</transitionStyle>
+<captionX>80</captionX>
+<captionY>40</captionY>
+<buttonX></buttonX>
+<buttonY></buttonY>
+<videoDescription></videoDescription>
+<shareURL></shareURL>
+</image>
+<!--
+<image>
+<imagePath>images/block_slider/chris.jpg</imagePath>
+<videoPath></videoPath>
+<trackPath></trackPath>
+<buffTime></buffTime>
+<youtube></youtube>
+<startFrame></startFrame>
+<media>image</media>
+<format></format>
+<inline></inline>
+<quality></quality>
+<imageURL><![CDATA[]]></imageURL>
+<target></target>
+<description><![CDATA[<font size ="36" color ="#ffffff">ADAMANTINE PICTURES</font>]]></description>
+<description><![CDATA[<font size ="30" color ="#ffffff">privately owned British Film and Television Company</font>]]></description>
+<description><![CDATA[<font size ="26" color ="#ffffff">Independent Production Company</font>]]></description>
+<boxColor>0x3399FF</boxColor>
+<boxColor>0xFF9900</boxColor>
+<boxColor>0x3399FF</boxColor>
+<transitionStyle>horizontalBars</transitionStyle>
+<captionX>80</captionX>
+<captionY>40</captionY>
+<buttonX></buttonX>
+<buttonY></buttonY>
+<videoDescription></videoDescription>
+<shareURL></shareURL>
+</image>-->
+<!--<image>
+<imagePath>images/block_slider/image5.jpg</imagePath>
+<videoPath>http://s3.envato.com/files/1355305/elegantextrusion_video_preview.flv</videoPath>
+<trackPath></trackPath>
+<buffTime>3</buffTime>
+<youtube></youtube>
+<startFrame></startFrame>
+<media>image</media>
+<format>max</format>
+<inline>video</inline>
+<quality></quality>
+<imageURL><![CDATA[]]></imageURL>
+<target></target>
+<description><![CDATA[<font size ="40" color ="#ffffff">SHOW OFF YOUR TALENTS</font>]]></description>
+<description><![CDATA[<font size ="30" color ="#ffffff">Be Creative</font>]]></description>
+<description><![CDATA[<font size ="36" color ="#ffffff">Get Noticed</font>]]></description>
+<boxColor>0x000000</boxColor>
+<boxColor>0x000000</boxColor>
+<boxColor>0x000000</boxColor>
+<transitionStyle>verticalBars</transitionStyle>
+<captionX>80</captionX>
+<captionY>20</captionY>
+<buttonX>80</buttonX>
+<buttonY>225</buttonY>
+<videoDescription><![CDATA[<font color ="#ffffff">Elegant Extrusion by MotionRevolver. Available on Videohive. </font><a href="http://www.activeden.net/user/igniteflash" target="_blank"><font color="#006699">Read More</font>]]></videoDescription>
+<shareURL>videohive.net/item/elegant-extrusion/142766</shareURL>
+</image>-->
+
+<image>
+<imagePath>images/block_slider/Biplane Picture.jpg</imagePath>
+<videoPath></videoPath>
+<trackPath></trackPath>
+<buffTime></buffTime>
+<youtube></youtube>
+<startFrame></startFrame>
+<media>image</media>
+<format></format>
+<inline></inline>
+<quality></quality>
+<imageURL><![CDATA[]]></imageURL>
+<target></target>
+<description><![CDATA[<font size ="40" color ="#ffffff">AQUIFER</font>]]></description>
+<description><![CDATA[<font size ="30" color ="#ffffff">A fast paced moral story about friendship and courage</font>]]></description>
+<description><![CDATA[]]></description>
+<boxColor>0x000000</boxColor>
+<boxColor>0x009933</boxColor>
+<boxColor>0xcc3366</boxColor>
+<transitionStyle>horizontalBars</transitionStyle>
+<captionX>80</captionX>
+<captionY>30</captionY>
+<buttonX></buttonX>
+<buttonY></buttonY>
+<videoDescription></videoDescription>
+<shareURL></shareURL>
+</image>
+	
+</slideshowData>

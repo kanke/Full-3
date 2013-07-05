@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<naviagtion
+	deeplinking = "on"
+	starting = "block_slider.swf" 
+	audio = "on"
+	urlTarget = "_blank" 
+	pageTitle = "Admantine Pictures" 
+	slogan = "XML Deeplinking Template"
+	logo="images/misc/logoNEW.png"
+	footer="© 2013 Adamantine Pictures, template by Kanke Ishaku. All Rights Reserved.">
+  
+<menu label="HOME" goto="load" link="block_slider.swf" audio="on" swfAddress = "Home"></menu>
+
+
+
+<menu label="ADAMANTINE PICTURES">
+	<menu label="COMPANY" goto="load" link="text_module1.swf" audio="on" swfAddress = "Company"/>
+	<menu label="BEHIND THE COMPANY" goto="load" link="news.swf" audio="on" swfAddress = "News"/>
+	<!--<menu label="BEHIND THE COMPANY" goto="load" link="text_module2.swf" audio="on" swfAddress = "Philosophy"/>-->
+	<menu label="PRESS & ARTICLES" goto="load" link="text_module3.swf" audio="on" swfAddress = "What We Do"/>
+	<!--<menu label="CLIENTS" goto="load" link="text_module4.swf" audio="on" swfAddress = "Clients"/>-->
+</menu>
+
+<menu label="MOVIES">
+	<menu label="THE CURSE OF THE GLASS PHOTO" goto="load" link="text_module6.swf" audio="on" swfAddress = "Curse"/>
+	<menu label="ETIRENO" goto="load" link="text_module7.swf" audio="on" swfAddress = "Etireno"/>
+	<menu label="AQUIFER" goto="load" link="text_module8.swf" audio="on" swfAddress = "Aquifer"/>
+</menu>
+
+<!--<menu label="MOVIES">
+	<menu label="IMAGE GALLERY" goto="load" link="traditional_gallery.swf" audio="on" swfAddress = "Image Gallery"/>
+	<menu label="VIDEO GALLERY" goto="load" link="traditional_video_gallery.swf" audio="on" swfAddress = "Video Gallery"/>
+	<menu label="MULTI MEDIA GALLERY" goto="load" link="traditional_multi_gallery.swf" audio="on" swfAddress = "Multi Media Gallery"/>
+	<menu label="FULLSCREEN GALLERY" goto="load" link="fullscreen_gallery.swf" audio="on" swfAddress = "Fullscreen Gallery"/>
+</menu>-->
+
+<!--<menu label="REEL">
+	<menu label="YOUTUBE VIDEO" goto="load" link="single_youtube.swf" audio="off" swfAddress = "Youtube Video"/>
+	<menu label="FLV VIDEO" goto="load" link="single_video.swf" audio="off" swfAddress = "FLV Video"/>
+</menu>-->
+
+<!--<menu label="NEWS" goto="load" link="news.swf" audio="on" swfAddress = "News"></menu>-->
+
+<!--<menu label="LINKS">
+	<menu label="ACTIVEDEN" goto="url" link="http://activeden.net" audio="" swfAddress = ""/>
+	<menu label="THEMEFOREST" goto="url" link="http://themeforest.net" audio="" swfAddress = ""/>
+	<menu label="VIDEOHIVE" goto="url" link="http://videohive.net" audio="" swfAddress = ""/>
+	<menu label="AUDIO JUNGLE" goto="url" link="http://audiojungle.net" audio="" swfAddress = ""/>
+	<menu label="CODE CANYON" goto="url" link="http://codecanyon.net" audio="" swfAddress = ""/>
+	<menu label="404 ERROR" goto="url" link="notfound.html" audio="" swfAddress = ""/>
+</menu>-->
+
+<menu label="STEPPING STONE PRODUCTION" goto="load" link="text_module4.swf" audio="on" swfAddress = "Clients">
+<menu label="THE RAVEN CLUB" goto="load" link="text_module5.swf" audio="on" swfAddress ="raven"/>
+</menu>
+<!--<menu label="STEPPING STONE PRODUCTION" goto="url" link="http://notes.envato.com/" audio="" swfAddress = ""></menu>-->
+
+<menu label="CONTACT" goto="load" link="contact.swf" audio="on" swfAddress = "Contact"></menu>
+
+<!--<menu label="STEPPING STONE PRODUCTION" goto="url" link="http://notes.envato.com/" audio="" swfAddress = ""></menu>-->
+
+<!--<menu label="" goto="load" link="text_module5.swf" audio="on" swfAddress = "raven"></menu>
+
+<menu label="" goto="url" link="etireno1.html" audio="" swfAddress = ""></menu>
+
+<menu label="" goto="url" link="etireno2.html" audio="" swfAddress = ""></menu>-->
+
+</naviagtion>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<data
+buttonColor="0x000000"
+buttonOverColor="0x111111"
+readbuttonColor="0x999999"
+readbuttonOverColor="0xffffff"
+controlBarColor="0xffffff"
+controlBarOverColor="0xcc3366"
+scrollColor="0x006699"
+trackColor="0x111111"
+txtColor="0x999999"
+txtOverColor="0xffffff"
+counterText1=""
+counterText2=""
+newsWidth="600"
+newsHeight="150"
+thumbWidth="130"
+thumbHeight="130"
+textLength="350">	
+	
+<!--<item>
+<media>flv</media>
+<image>images/news/image6.jpg</image>
+<youtube></youtube>
+<flv>http://s3.envato.com/files/1311982/Lights of Envato.flv</flv>
+<videoWidth>500</videoWidth>
+<videoHeight>250</videoHeight>
+<shareURL>videohive.net/item/lights-of-envato/138814</shareURL>
+<description><![CDATA[April 21st, 2010<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan consectetur sem, at pellentesque augue blandit quis. Nullam mattis laoreet sapien, sed condimentum purus lobortis pharetra. Donec cursus massa sed felis tristique convallis in convallis turpis. Suspendisse id sem quam. Vivamus suscipit ullamcorper suscipit. Fusce ipsum mauris, faucibus a consectetur sed, elementum suscipit velit. Integer lacinia lorem non lectus pellentesque vehicula. Nulla facilisi. Aliquam augue nunc, rutrum quis blandit in, sollicitudin nec nisl. Donec et orci sed tellus ullamcorper tristique et vel libero.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor.]]></description>
+</item>-->
+
+<item>
+<media>image</media>
+<image>images/news/me.jpg</image>
+<youtube></youtube>
+<flv></flv>
+<videoWidth></videoWidth>
+<videoHeight></videoHeight>
+<shareURL></shareURL>
+<description><![CDATA[Adamantine Pictures Producer: Chris Bunyan has worked on numerous feature films, prime time British dramas and the BAFTA nominated film "Love Again" starring Hugh Bonneville and Tara Fitzgerald.Other films Chris has worked on includes "The Wedding Video","Comedown" and the Bollywood sensation "Aman Ki Aasha".
+
+Chris graduated in Business and has previously been an executive at the Financial Times, being named as one of the top FT executives worldwide in 2001. 
+Chris has a solid grounding in film production having worked as a Line Producer, Production Manager as well as a Location Manager working on International features as well as BBC soaps such as Eastenders.
+
+Having an eye for detail, Chris believes that Prior Planning and Preparation, Prevents Poor Performance. Thus getting the most out of pre-production and saving thousands of pounds worth of production costs. 
+Chris is also a prolific scriptwriter with many scripts at different stages of development. A real hands on approach to the production process, Chris believes that by bringing together the right team with the right approach both technically and creatively, is the key to a successfully feature.
+<img src="images/news/loveagain.jpg"  width="195" height="150"> 
+
+
+
+
+
+
+
+
+<img src="images/news/fallenangels.jpg"  width="195" height="150">   
+
+
+
+
+
+
+
+
+<img src="images/news/theweddingvideo_.jpg" width="195" height="150"> 
+
+
+]]></description>
+</item>
+
+<item>
+<media>image</media>
+<image>images/news/micheal.jpg</image>
+<youtube></youtube>
+<flv></flv>
+<videoWidth></videoWidth>
+<videoHeight></videoHeight>
+<shareURL></shareURL>
+<description><![CDATA[Executive Producer: Michael O'Sullivan: A seasoned film industry executive with over 40 years experience in the film, TV, video/DVD and cinema exhibition industries. Specific areas of expertise include; strategic and financial planning; financial reporting; corporate governance; Sarbanes Oxley compliance; International tax planning; change management procedures; film and TV production: scheduling, budgeting and accounting. 
+
+Film production has always been his first love and during the past 12 months he has been working with a number of filmmakers to help them progress their projects.
+
+Currently Michael is involved with 10 projects as a producer or executive producer. 
+In December 2009, he retired from Paramount Pictures International as the Executive Vice President, CFO, after a 37 year career.
+
+<img src="images/news/valentine_.jpg" width="195" height="150"> 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+<img src="images/news/indianajones.jpg" width="195" height="150"> 
+
+
+
+
+
+
+
+
+<img src="images/news/missionimpossible_.jpg" width="195" height="150"> 
+
+
+
+
+
+
+
+
+<img src="images/news/red.jpg" width="195" height="150"> 
+
+
+
+
+
+
+
+
+<img src="images/news/sleepy-hollow_.jpg" width="195" height="150"> 
+
+
+
+
+
+
+
+
+<img src="images/news/tomb.jpg" width="195" height="150"> 
+
+
+
+
+
+
+
+
+
+
+]]></description>
+</item>
+ 
+
+<item>
+<media>image</media>
+<image>images/news/pg.jpg</image>
+<youtube></youtube>
+<flv></flv>
+<videoWidth></videoWidth>
+<videoHeight></videoHeight>
+<shareURL></shareURL>
+<description><![CDATA[Roxaneh Renton has worked within the film industry for 10 years in various capacities and found her niche in screen-writing.  She began editing screenplays after drama school in New York and moved to Los Angeles where she worked for Catchphrase Entertainment under the Producer Dean Schull ('Waiting', Still Waiting') as Script Reader and Script Developer. 
+On her return to the UK in 2007, she began working with Adamantine Pictures as a Script Editor and Writer.  
+Roxaneh has several projects in development.
+]]></description>
+</item> 
+
+<!--<item>
+<media>flv</media>
+<image>images/news/image1.jpg</image>
+<youtube></youtube>
+<flv>http://s3.envato.com/files/1355305/elegantextrusion_video_preview.flv</flv>
+<videoWidth>445</videoWidth>
+<videoHeight>250</videoHeight>
+<shareURL>videohive.net/item/elegant-extrusion/142766</shareURL>
+<description><![CDATA[September 4th, 2010<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan consectetur sem, at pellentesque augue blandit quis. Nullam mattis laoreet sapien, sed condimentum purus lobortis pharetra. Donec cursus massa sed felis tristique convallis in convallis turpis. Suspendisse id sem quam. Vivamus suscipit ullamcorper suscipit. Fusce ipsum mauris, faucibus a consectetur sed, elementum suscipit velit. Integer lacinia lorem non lectus pellentesque vehicula. Nulla facilisi. Aliquam augue nunc, rutrum quis blandit in, sollicitudin nec nisl. Donec et orci sed tellus ullamcorper tristique et vel libero.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.]]></description>
+</item>
+
+<item>
+<media>image</media>
+<image>images/news/image5.jpg</image>
+<youtube></youtube>
+<flv></flv>
+<videoWidth></videoWidth>
+<videoHeight></videoHeight>
+<shareURL></shareURL>
+<description><![CDATA[August 12th, 2010<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan consectetur sem, at pellentesque augue blandit quis. Nullam mattis laoreet sapien, sed condimentum purus lobortis pharetra. Donec cursus massa sed felis tristique convallis in convallis turpis. Suspendisse id sem quam. Vivamus suscipit ullamcorper suscipit. Fusce ipsum mauris, faucibus a consectetur sed, elementum suscipit velit. Integer lacinia lorem non lectus pellentesque vehicula. Nulla facilisi. Aliquam augue nunc, rutrum quis blandit in, sollicitudin nec nisl. Donec et orci sed tellus ullamcorper tristique et vel libero.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan consectetur sem, at pellentesque augue blandit quis. Nullam mattis laoreet sapien, sed condimentum purus lobortis pharetra. Donec cursus massa sed felis tristique convallis in convallis turpis. Suspendisse id sem quam. Vivamus suscipit ullamcorper suscipit. Fusce ipsum mauris, faucibus a consectetur sed, elementum suscipit velit. Integer lacinia lorem non lectus pellentesque vehicula. Nulla facilisi. Aliquam augue nunc, rutrum quis blandit in, sollicitudin nec nisl. Donec et orci sed tellus ullamcorper tristique et vel libero.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.
+Sed magna erat, consectetur nec porttitor quis, interdum a velit. Vestibulum vitae sem eu magna tincidunt placerat. Quisque id nisi nulla. Sed ipsum arcu, facilisis et sagittis vitae, sollicitudin et neque. Sed congue molestie scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque pretium fermentum neque, et viverra turpis suscipit commodo. Morbi augue tortor, varius quis fermentum in, pharetra a odio. Nullam a sapien et ipsum viverra vehicula id ac risus. Pellentesque venenatis tristique tempus. Praesent et orci lacus. Cras iaculis arcu at orci convallis ornare malesuada augue pulvinar. Vestibulum venenatis tempor ante et lacinia. Suspendisse malesuada dapibus malesuada. Etiam blandit dui at neque ornare vulputate. Pellentesque a lorem quis nisi tempus venenatis. Ut eleifend mi eu dolor dapibus ornare a sit amet orci. Proin fermentum laoreet mauris, ut luctus est lacinia non. Integer et erat lectus.]]></description>
+</item>-->
+
+</data>

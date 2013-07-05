@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<slideshowData 
+	speed="12"
+	buttons="on"
+	description="on"
+	overlay="off">
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image1.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb1.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">City Style</font><br><font size ="30" color ="#999999">Sophisticated, Modern </font><font size ="30" color ="#cccccc">XML Corporate Business Template</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image2.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb2.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">XML Driven</font><br><font size ="30" color ="#cccccc">Completely Customizable in XML</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image3.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb3.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="40" color ="#ffffff">Multi Media Friendly</font><br><font size ="30" color ="#cccccc">Display Youtube and FLV Videos</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image4.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb4.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Fully Customizable</font><br><font size ="30" color ="#999999">Including Font Style & Color</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image5.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb5.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="40" color ="#ffffff">Spécial Chãracters</font><br><font size ="20" color ="#666666">ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖÙÚÛÜÝàáâãäåæçèéêëìíîïðñòóôõöùúûüýþÿ</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image6.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb6.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Show off Your Talents</font><br><font size ="30" color ="#999999">Be Creative </font><font size ="30" color ="#cccccc">Get Noticed</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image7.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb7.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Enhance Your Site</font><br><font size ="30" color ="#666666">Increase Your Web Presence</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image8.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb8.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Corporate or Creative</font><br><font size ="30" color ="#999999">Easily Customize to Fit Your Needs</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image9.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb9.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Created by Igniteflash</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image10.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb10.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">City Style</font><br><font size ="30" color ="#999999">Sophisticated, Modern </font><font size ="30" color ="#cccccc">XML Corporate Business Template</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image1.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb1.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">XML Driven</font><br><font size ="30" color ="#999999">Completely Customizable in XML</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image2.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb2.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="40" color ="#ffffff">Multi Media Friendly</font><br><font size ="30" color ="#cccccc">Display Youtube and FLV Videos</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image3.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb3.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#cccccc">Fully Customizable</font><br><font size ="30" color ="#444444">Including Font Style & Color</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image4.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb4.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="40" color ="#ffffff">Spécial Chãracters</font><br><font size ="20" color ="#666666">ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖÙÚÛÜÝàáâãäåæçèéêëìíîïðñòóôõöùúûüýþÿ</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image5.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb5.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Show off Your Talents</font><br><font size ="30" color ="#999999">Be Creative </font><font size ="30" color ="#cccccc">Get Noticed</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image6.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb6.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Enhance Your Site</font><br><font size ="30" color ="#666666">Increase Your Web Presence.</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image7.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb7.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Corporate or Creative</font><br><font size ="30" color ="#999999">Easily Customize to Fit Your Needs</font>]]></description>
+</slide>
+
+<slide>
+<imagePath>images/fullscreen_gallery/large/image8.jpg</imagePath>
+<thumbPath>images/fullscreen_gallery/thumbs/thumb8.jpg</thumbPath>
+<videoPath></videoPath>
+<buffTime></buffTime>
+<swfPath></swfPath>
+<media>image</media>
+<youtube></youtube>
+<startFrame></startFrame>
+<quality></quality>
+<thumbCaption><![CDATA[<font color = "#ffffff" size ="8">XML THUMB CAPTION</font><br><font color = "#ffffff" size ="8">HTML Formatted Description</font>]]></thumbCaption>
+<description><![CDATA[<font size ="50" color ="#ffffff">Created by Igniteflash</font>]]></description>
+</slide>
+
+</slideshowData>
